@@ -1,4 +1,4 @@
-# Maximum a posteriori estimation
+# Maximum A Posterior Estimation
 This repo is an ez implementaion of MAP
 ## Introduction
 #### In Bayesian statistics, a maximum a posterior probability (MAP) is an estimation of an unknown features by calculating the posterior
